@@ -1,3 +1,4 @@
+Coffee-Sales-Analysis [Excel]
 I created a Excel dashboard to analyze coffee sales data, focusing on key insights:
 
 Sales Trends: Tracked total sales over time across different coffee types (Arabica, Excelsa, Liberica, Robusta).
